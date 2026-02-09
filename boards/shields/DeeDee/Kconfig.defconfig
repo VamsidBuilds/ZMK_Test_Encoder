@@ -1,6 +1,4 @@
 if SHIELD_DEEDEE
-
 config ZMK_KEYBOARD_NAME
     default "DeeDee"
-
 endif
